@@ -1,0 +1,1 @@
+To reduce the traffic police efforts using an artificial intelligence technology with the help of Microcontroller, Sensors and coding. That’s all make it a fully automatic traffic controlled system.
